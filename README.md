@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Demo for CS1200
+Demo for merging
